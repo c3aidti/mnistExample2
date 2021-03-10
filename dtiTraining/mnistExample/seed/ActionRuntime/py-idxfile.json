@@ -1,0 +1,16 @@
+{
+    "id": "py-idxfile",
+    "name": "py-idxfile",
+    "language": "Python",
+    "runtime": "CPython",
+    "runtimeVersion": "3.6",
+    "repositories": [
+        "https://repo.continuum.io/pkgs/main",
+        "conda-forge"
+    ],
+    "modules": {
+        "conda.numpy": "=1.16.4",
+        "conda.requests": "=2.23.0",
+        "conda.dill": "=0.3.2"
+    }
+}

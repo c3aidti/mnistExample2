@@ -1,0 +1,19 @@
+{
+    "id": "py-ml-images",
+    "name": "py-ml-images",
+    "language": "Python",
+    "runtime": "CPython",
+    "runtimeVersion": "3.8",
+    "repositories": [
+        "https://repo.continuum.io/pkgs/main",
+        "conda-forge"
+    ],
+    "modules": {
+        "conda.numpy": "=1.18",
+        "conda.requests": "=2",
+        "conda.dill": "=0.3.2",
+        "conda.tensorflow": "=2.2",
+        "conda.matplotlib": "=3.3",
+        "conda.pandas": "=1"
+    }
+}
