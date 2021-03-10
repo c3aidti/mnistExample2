@@ -1,6 +1,0 @@
-{
-  "name": "dtiTraining",
-  "version": "1.0.0",
-  "description": "DTI Training Repository",
-  "dependencies": { "server" : "7.12.4" }
-}
