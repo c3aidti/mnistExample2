@@ -1,0 +1,6 @@
+{
+  "name" : "testApplication",
+  "description" : "Test Application",
+  "author" : "mkrafcz2@illinois.edu",
+  "dependencies" : [ "standardDependencies", "uiComponentLibraryReact" ]
+}
