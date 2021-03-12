@@ -2,5 +2,5 @@
   "name": "mnExRepo",
   "version": "1.0.0",
   "description": "Simple repository for mnist example",
-  "dependencies": { "server" : "7.12.4" }
+  "dependencies": { "server" : "7.13.1.20" }
 }
