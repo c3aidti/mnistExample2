@@ -1,0 +1,6 @@
+{
+  "name" : "testtenantYZ",
+  "description" : "a testing app trying to have an example workflow for data importing",
+  "author" : "zhang303@illinois.edu",
+  "dependencies" : [ "standardDependencies", "uiComponentLibraryReact" ]
+}
