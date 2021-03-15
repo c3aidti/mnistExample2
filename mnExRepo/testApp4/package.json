@@ -1,0 +1,6 @@
+{
+  "name" : "testApp4",
+  "description" : "Test App 4",
+  "author" : "armaan.butt@c3iot.com",
+  "dependencies" : [ "standardDependencies", "uiComponentLibraryReact" ]
+}
